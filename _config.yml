@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhichao Wang"
-description              : 
+description              : "Computational social science"
 repository               : "neowangzc.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhichao Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Tohoku University
-                      aaa"
+  bio              : "Tohoku University"
   location         : "Sendai, Japan"
   employer         :
   pubmed           : 
