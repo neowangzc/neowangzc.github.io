@@ -35,19 +35,19 @@ I hold an MS degree from Beijing Jiaotong University and a BA degree from the Un
 # 📝 Publications 
 
 ### [The Impact of Regional Economic Conditions on Bidding Strategies in Online Labor Markets]()
-**Zhichao Wang**, Zeyu Lyu
+**Zhichao Wang**, Zeyu Lyu  
 *In Proceedings of IEEE International Conference on Big Data*. Accepted. **2025**
 
 ### [Personalized recommendation system based on meta-learning for human-centric consumer services in gig economy](https://ieeexplore.ieee.org/abstract/document/10296044/)
-Yixuan Ma, **Zhichao Wang**, Mingcong Tang et al.
+Yixuan Ma, **Zhichao Wang**, Mingcong Tang et al.  
 *IEEE Transactions on Consumer Electronics*. **2023**
 
 ### [From ABM to GABM: How Generative AI is Reshaping Social Simulation](https://www.jis.ac.cn/CN/Y2025/V4/I2/138)
-**Zhichao Wang**, Zeyu Lyu 
+**Zhichao Wang**, Zeyu Lyu  
 *Journal of Intelligent Society*(Chinese Edition). **2025**
 
 ### [MIG: Addressing the Cold-Start Problem in Task Recommendations Through Enhanced Meta Embeddings](https://ieeexplore.ieee.org/abstract/document/10831509)
-**Zhichao Wang**, Yixuan Ma  
+**Zhichao Wang**, Yixuan Ma    
 *In Proceedings of IEEE International Conference on Systems, Man, and Cybernetics (SMC)*. **2024**
 
 ### [Enhancing Task Matching in Online Labor Markets Using Multi-field Features Interaction and Meta-learning](https://link.springer.com/chapter/10.1007/978-981-97-4045-1_43)
