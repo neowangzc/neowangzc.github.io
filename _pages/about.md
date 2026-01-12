@@ -63,7 +63,7 @@ Shengwei Du, **Zhichao Wang**, Yixuan Ma
 
 ### [The Role of Recommendation Algorithms in Shaping Opinion Polarization: Evidence from an LLM-Driven Social Media Simulation](https://researchmap.jp/zhichaowang/presentations/51685097)
 **Zhichao Wang**, Zeyu Lyu  
-*2025 Asian Network for Public Opinion Research-Asia‑Pacific Communication Alliance Annual Conference*.2025.11.(Oral) 
+*2025 Asian Network for Public Opinion Research-Asia‑Pacific Communication Alliance Annual Conference*.2025.11.(Oral)  
 *中国社会学年会*.2025.07.(Oral)
 
 ### [社会的規範の形成と維持 大規模言語モデルを用いたシミュレーションによる解明](https://researchmap.jp/zhichaowang/presentations/51084659)
