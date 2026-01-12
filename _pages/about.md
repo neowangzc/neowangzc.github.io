@@ -34,25 +34,29 @@ I hold an MS degree from Beijing Jiaotong University and a BA degree from the Un
 
 # 📝 Publications 
 
-### Personalized recommendation system based on meta-learning for human-centric consumer services in gig economy
-Y Ma, **Z Wang**, M Tang, W Qu, M Deveci, D Pamucar  
-*IEEE Transactions on Consumer Electronics*, **2023** [Paper](https://ieeexplore.ieee.org/abstract/document/10296044/)
+### [The Impact of Regional Economic Conditions on Bidding Strategies in Online Labor Markets]()
+**Zhichao Wang**, Zeyu Lyu
+*In Proceedings of IEEE International Conference on Big Data*. Accepted. **2025**
 
-### From ABM to GABM: How Generative AI is Reshaping Social Simulation
-Z Lyu, **Z Wang** 
-*Journal of Intelligent Society*(Chinese Edition), **2025** [Paper](https://www.jis.ac.cn/CN/Y2025/V4/I2/138)
+### [Personalized recommendation system based on meta-learning for human-centric consumer services in gig economy](https://ieeexplore.ieee.org/abstract/document/10296044/)
+Yixuan Ma, **Zhichao Wang**, Mingcong Tang et al.
+*IEEE Transactions on Consumer Electronics*. **2023**
 
-### MIG: Addressing the Cold-Start Problem in Task Recommendations Through Enhanced Meta Embeddings
-**Z Wang**, Y Ma  
-*2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, **2024** [Paper](https://ieeexplore.ieee.org/abstract/document/10831509)
+### [From ABM to GABM: How Generative AI is Reshaping Social Simulation](https://www.jis.ac.cn/CN/Y2025/V4/I2/138)
+**Zhichao Wang**, Zeyu Lyu 
+*Journal of Intelligent Society*(Chinese Edition). **2025**
 
-### Enhancing Task Matching in Online Labor Markets Using Multi-field Features Interaction and Meta-learning
-**Z Wang**, Y Ma  
-*International Conference on Logistics, Informatics and Service Sciences*, **2023** [Paper](https://link.springer.com/chapter/10.1007/978-981-97-4045-1_43)  
+### [MIG: Addressing the Cold-Start Problem in Task Recommendations Through Enhanced Meta Embeddings](https://ieeexplore.ieee.org/abstract/document/10831509)
+**Zhichao Wang**, Yixuan Ma  
+*In Proceedings of IEEE International Conference on Systems, Man, and Cybernetics (SMC)*. **2024**
 
-### Online Labor Market Task Recommendation via Time-Weighted Diffusion Model
-S Du, **Z Wang**, Y Ma  
-*International Conference on Neural Information Processing*, **2024** [Paper](https://link.springer.com/chapter/10.1007/978-981-96-6588-4_30)
+### [Enhancing Task Matching in Online Labor Markets Using Multi-field Features Interaction and Meta-learning](https://link.springer.com/chapter/10.1007/978-981-97-4045-1_43)
+**Zhichao Wang**, Yixuan Ma  
+*In Proceedings of International Conference on Logistics, Informatics and Service Sciences*. **2023**
+
+### [Online Labor Market Task Recommendation via Time-Weighted Diffusion Model](https://link.springer.com/chapter/10.1007/978-981-96-6588-4_30)
+Shengwei Du, **Zhichao Wang**, Yixuan Ma  
+*In Proceedings of International Conference on Neural Information Processing*. **2024**
 
 
 # 💬 Presentation
@@ -63,7 +67,7 @@ S Du, **Z Wang**, Y Ma
 *中国社会学年会*.2025.07.(Oral)
 
 ### [社会的規範の形成と維持 大規模言語モデルを用いたシミュレーションによる解明](https://researchmap.jp/zhichaowang/presentations/51084659)
-呂沢宇, **王志超**, 佐藤嘉倫, 瀧川裕貴, 小田中悠  
+Zeyu Lyu, **Zhichao Wang**, Yoshimichi Sato, Hiroki Takikawa, Yu Odanaka
 *第79回数理社会学会（JAMS79）*.2025.08.(Poster)
 
 ### [AI-augmented Synthetic Social Survey Data: Can Large Language Models Predict Public Opinion?](https://researchmap.jp/zhichaowang/presentations/49385584)
