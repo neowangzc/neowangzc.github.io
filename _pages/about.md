@@ -61,11 +61,11 @@ Yixuan Ma, **Zhichao Wang**, Mingcong Tang et al.
 **Zhichao Wang**, Yixuan Ma    
 *In Proceedings of IEEE International Conference on Systems, Man, and Cybernetics (SMC)*. **2024**
 
-### [Enhancing Task Matching in Online Labor Markets Using Multi-field Features Interaction and Meta-learning](https://link.springer.com/chapter/10.1007/978-981-97-4045-1_43)
+### [Enhancing Task Matching in Online Labor Markets Using Multi-field Features Interaction and Meta-learning](https://link.springer.com/chapter/10.1007/978-981-97-4045-1_43)(Travel Grant)
 **Zhichao Wang**, Yixuan Ma  
 *In Proceedings of International Conference on Logistics, Informatics and Service Sciences*. **2023**
 
-### [Online Labor Market Task Recommendation via Time-Weighted Diffusion Model](https://link.springer.com/chapter/10.1007/978-981-96-6588-4_30)(Travel Grant)
+### [Online Labor Market Task Recommendation via Time-Weighted Diffusion Model](https://link.springer.com/chapter/10.1007/978-981-96-6588-4_30)
 Shengwei Du, **Zhichao Wang**, Yixuan Ma  
 *In Proceedings of International Conference on Neural Information Processing(ICONIP)*. **2024**
 
