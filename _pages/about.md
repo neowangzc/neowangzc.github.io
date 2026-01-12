@@ -19,8 +19,13 @@ redirect_from:
 
 I am currently a PhD student in Professor [Zeyu Lyu’s lab](https://lvzeyu.github.io/), where I study the intersection of computational social science, artificial intelligence, and social computing.
 Our group focuses on employing big data and computational methods in the areas of sociology, communication, and political science.
-Before moving here, I worked in the esports industry and the traditional media industry.
+Before moving here, I worked in the E-sports industry and the traditional media industry.
 I hold an MS degree from Beijing Jiaotong University and a BA degree from the University of Science and Technology of China.
+
+**[Research Interest]**
+1. Digital Platforms: Polarization, algorithmic curation, and gig economy
+2. LLM for Social Science:Human–AI interaction, LLMs-driven social simulation
+3. Digital Humanities: Online discourse, narratives, and cultural evolution
 
 
 
