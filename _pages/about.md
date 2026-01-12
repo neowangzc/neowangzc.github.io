@@ -23,7 +23,7 @@ Before joining the lab, I worked in the E-sports industry and the traditional me
 I hold an MS degree from Beijing Jiaotong University and a BA degree from the University of Science and Technology of China.
 
 **[Research Interest]**
-1. Digital Platforms: Polarization, algorithmic curation, and gig economy
+1. Digital Platforms: Polarization, algorithmic control, and gig economy
 2. LLM for Social Science:Human–AI interaction, LLMs-driven social simulation
 3. Digital Humanities: Online discourse, narratives, and cultural evolution
 
@@ -36,15 +36,15 @@ I hold an MS degree from Beijing Jiaotong University and a BA degree from the Un
 
 ### [The Impact of Regional Economic Conditions on Bidding Strategies in Online Labor Markets]()
 **Zhichao Wang**, Zeyu Lyu  
-*In Proceedings of IEEE International Conference on Big Data*. Accepted. **2025**
-
-### [Personalized recommendation system based on meta-learning for human-centric consumer services in gig economy](https://ieeexplore.ieee.org/abstract/document/10296044/)
-Yixuan Ma, **Zhichao Wang**, Mingcong Tang et al.  
-*IEEE Transactions on Consumer Electronics*. **2023**
+*In Proceedings of IEEE International Conference on Big Data*. **2025**
 
 ### [From ABM to GABM: How Generative AI is Reshaping Social Simulation](https://www.jis.ac.cn/CN/Y2025/V4/I2/138)
 **Zhichao Wang**, Zeyu Lyu  
 *Journal of Intelligent Society*(Chinese Edition). **2025**
+
+### [Personalized recommendation system based on meta-learning for human-centric consumer services in gig economy](https://ieeexplore.ieee.org/abstract/document/10296044/)
+Yixuan Ma, **Zhichao Wang**, Mingcong Tang et al.  
+*IEEE Transactions on Consumer Electronics*. **2023**
 
 ### [MIG: Addressing the Cold-Start Problem in Task Recommendations Through Enhanced Meta Embeddings](https://ieeexplore.ieee.org/abstract/document/10831509)
 **Zhichao Wang**, Yixuan Ma    
@@ -54,7 +54,7 @@ Yixuan Ma, **Zhichao Wang**, Mingcong Tang et al.
 **Zhichao Wang**, Yixuan Ma  
 *In Proceedings of International Conference on Logistics, Informatics and Service Sciences*. **2023**
 
-### [Online Labor Market Task Recommendation via Time-Weighted Diffusion Model](https://link.springer.com/chapter/10.1007/978-981-96-6588-4_30)
+### [Online Labor Market Task Recommendation via Time-Weighted Diffusion Model](https://link.springer.com/chapter/10.1007/978-981-96-6588-4_30)(Travel Grant)
 Shengwei Du, **Zhichao Wang**, Yixuan Ma  
 *In Proceedings of International Conference on Neural Information Processing*. **2024**
 
@@ -71,11 +71,11 @@ Shengwei Du, **Zhichao Wang**, Yixuan Ma
 *第79回日本数理社会学会*.2025.08.(Poster)  
 *中国计算社会学年会*.2025.12.(Oral)
 
-### AI-augmented Synthetic Social Survey Data: Can Large Language Models Predict Public Opinion?
+### AI-augmented Synthetic Social Survey Data: Can Large Language Models Predict Public Opinion?(Travel Grant)
 Zeyu Lyu, **Zhichao Wang**  
 *第78回日本数理社会学会*.2025.03.(Poster)
 
-### Evaluating Hiring Decision-Making in Large Language Models
+### Evaluating Hiring Decision-Making in Large Language Models(Travel Grant)
 **Zhichao Wang**, Zeyu Lyu  
 *第78回日本数理社会学会*.2025.03.(Poster)
 
@@ -85,9 +85,13 @@ Yixuan Ma, **Zhichao Wang**
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.04-2028.03* Research Grant, [JSPS Research Fellowships for Young Scientists (DC2)](https://www.jsps.go.jp/j-pd/pd_gaiyo.html).
+- *2025.04–2028.03* Research Grant, [WISE Program for AI Electronics](https://www.aie.tohoku.ac.jp/english/).
+- *2024.06* Beijing Jiaotong University Outstanding Master’s Thesis Award.
+- *2023.07* Best Presentation Award in The 8th Doctoral Consortium of Sino-EU Doctoral School .
 
+# 🏃 Activities
+- *2025.06* The Summer Institute in Computational Social Science (SICSS-Hong Kong).
 
 # 💻 Projects
 
