@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a PhD student in Professor [Zeyu Lyu’s lab](https://lvzeyu.github.io/), where I study the intersection of computational social science, artificial intelligence, and social computing.
 Our group focuses on employing big data and computational methods in the areas of sociology, communication, and political science.
-Before moving here, I worked in the E-sports industry and the traditional media industry.
+Before joining the lab, I worked in the E-sports industry and the traditional media industry.
 I hold an MS degree from Beijing Jiaotong University and a BA degree from the University of Science and Technology of China.
 
 **[Research Interest]**
@@ -34,7 +34,31 @@ I hold an MS degree from Beijing Jiaotong University and a BA degree from the Un
 
 # 📝 Publications 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+### From ABM to GABM: How Generative AI is Reshaping Social Simulation
+Z Lyu, **Z Wang** 
+*Journal of Intelligent Society*(Chinese Edition), **2025**  
+[Paper]() | [Code]()
+
+### Online Labor Market Task Recommendation via Time-Weighted Diffusion Model
+S Du, **Z Wang**, Y Ma  
+*International Conference on Neural Information Processing*, **2024**  
+[Paper]() | [Code]()
+
+### MIG: Addressing the Cold-Start Problem in Task Recommendations Through Enhanced Meta Embeddings
+**Z Wang**, Y Ma  
+*2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, **2024**  
+[Paper]() | [Code]()
+
+### Personalized recommendation system based on meta-learning for human-centric consumer services in gig economy
+Y Ma, **Z Wang**, M Tang, W Qu, M Deveci, D Pamucar  
+*IEEE Transactions on Consumer Electronics*, **2023**  
+[Paper]() | [Code]()
+
+### Enhancing Task Matching in Online Labor Markets Using Multi-field Features Interaction and Meta-learning
+**Z Wang**, Y Ma  
+*International Conference on Logistics, Informatics and Service Sciences*, **2023**  
+[Paper]() | [Code]()
+
 
 # 💬 Presentation
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
