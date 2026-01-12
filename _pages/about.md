@@ -66,21 +66,22 @@ Shengwei Du, **Zhichao Wang**, Yixuan Ma
 *2025 Asian Network for Public Opinion Research-Asia‑Pacific Communication Alliance Annual Conference*.2025.11.(Oral)  
 *中国社会学年会*.2025.07.(Oral)
 
-### [社会的規範の形成と維持 大規模言語モデルを用いたシミュレーションによる解明](https://researchmap.jp/zhichaowang/presentations/51084659)
+### [Formation and Maintenance of Social Norms: Insights from Simulations Using Large Language Models](https://researchmap.jp/zhichaowang/presentations/51084659)
 Zeyu Lyu, **Zhichao Wang**, Yoshimichi Sato, Hiroki Takikawa, Yu Odanaka  
-*第79回数理社会学会（JAMS79）*.2025.08.(Poster)
+*第79回日本数理社会学会*.2025.08.(Poster)  
+*中国计算社会学年会*.2025.12.(Oral)
 
 ### [AI-augmented Synthetic Social Survey Data: Can Large Language Models Predict Public Opinion?](https://researchmap.jp/zhichaowang/presentations/49385584)
 Zeyu Lyu, **Zhichao Wang**  
-*第78回日本数理社会学会（JAMS78）*.2025.03.(Poster)
+*第78回日本数理社会学会*.2025.03.(Poster)
 
-### [⼤規模⾔語モデルにおける採用判断の適⽤に関する審査](https://researchmap.jp/zhichaowang/presentations/49385528)
-Zhichao Wang, Zeyu Lyu  
-*第78回日本数理社会学会（JAMS78）*.2025.03.(Poster)
+### [Evaluating Hiring Decision-Making in Large Language Models](https://researchmap.jp/zhichaowang/presentations/49385528)
+**Zhichao Wang**, Zeyu Lyu  
+*第78回日本数理社会学会*.2025.03.(Poster)
 
 ### [Model-Agnostic Personalized Preference Estimator for Task Recommendation in Online Labor Markets: A Meta-Learning Approach](https://researchmap.jp/zhichaowang/presentations/49385528)
 Yixuan Ma, **Zhichao Wang**  
-*INFORMS Annual Meeting 2023*.2023.10.(Poster)
+*INFORMS Annual Meeting 2023*.2023.10.(Oral)
 
 
 # 🎖 Honors and Awards
