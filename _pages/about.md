@@ -20,12 +20,12 @@ redirect_from:
 I am currently a PhD student in Professor [Zeyu Lyu’s lab](https://lvzeyu.github.io/), where I study the intersection of computational social science, artificial intelligence, and social computing.
 Our group focuses on employing big data and computational methods in the areas of sociology, communication, and political science.
 Before joining the lab, I worked in the E-sports industry and the traditional media industry.
-I hold an MS degree from Beijing Jiaotong University and a BA degree from the University of Science and Technology of China.
+I hold an MS degree from Beijing Jiaotong University and a BA degree from the University of Electronic Science and Technology of China (UESTC).
 
 **[Research Interest]**
-1. Digital Platforms: Polarization, algorithmic control, and gig economy
-2. LLM for Social Science:Human–AI interaction, LLMs-driven social simulation
-3. Digital Humanities: Online discourse, narratives, and cultural evolution
+1. **Digital Platforms**: Polarization, algorithmic control, and gig economy
+2. **LLM for Social Science**:Human–AI interaction, LLMs-driven social simulation
+3. **Digital Humanities**: Online discourse, narratives, and cultural evolution
 
 
 # 🔥 News
@@ -81,7 +81,7 @@ Zeyu Lyu, **Zhichao Wang**
 
 ### Model-Agnostic Personalized Preference Estimator for Task Recommendation in Online Labor Markets: A Meta-Learning Approach
 Yixuan Ma, **Zhichao Wang**  
-*INFORMS Annual Meeting 2023*.2023.10.(Oral)
+*INFORMS Annual Meeting*.2023.10.(Oral)
 
 
 # 🎖 Honors and Awards
@@ -92,6 +92,9 @@ Yixuan Ma, **Zhichao Wang**
 
 # 🏃 Activities
 - *2025.06* The Summer Institute in Computational Social Science (SICSS-Hong Kong).
+
+
+
 
 # 💻 Projects
 
