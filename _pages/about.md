@@ -28,8 +28,19 @@ I hold an MS degree from Beijing Jiaotong University and a BA degree from the Un
 3. **Digital Humanities**: Online discourse, narratives, and cultural evolution
 
 
-# 🔥 News
-- *2025.09*: &nbsp;🎉🎉 I was selected as a JSPS Research Fellowships for Young Scientists (DC2).
+<span class='anchor' id='-blog'></span>
+# 🔥 Blog
+<ul>
+  {% for post in site.posts limit:3 %}
+    <li>
+      <i>{{ post.date | date: "%Y.%m" }}</i>: &nbsp; <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<div style="text-align: right;">
+<a href="/blog/">All Blogs ➡</a>
+</div>
 
 
 # 📝 Publications 
