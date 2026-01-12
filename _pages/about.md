@@ -67,7 +67,7 @@ Yixuan Ma, **Zhichao Wang**, Mingcong Tang et al.
 
 ### [Online Labor Market Task Recommendation via Time-Weighted Diffusion Model](https://link.springer.com/chapter/10.1007/978-981-96-6588-4_30)(Travel Grant)
 Shengwei Du, **Zhichao Wang**, Yixuan Ma  
-*In Proceedings of International Conference on Neural Information Processing*. **2024**
+*In Proceedings of International Conference on Neural Information Processing(ICONIP)*. **2024**
 
 
 # 💬 Presentation
