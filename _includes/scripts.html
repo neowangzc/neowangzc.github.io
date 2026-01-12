@@ -1,4 +1,22 @@
-<script src="assets/js/main.min.js"></script>
+<script src="/assets/js/main.min.js"></script>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var links = document.querySelectorAll('a');
+        var currentHost = window.location.hostname;
+
+        links.forEach(function (link) {
+            var linkHost = link.hostname;
+
+            if ((linkHost && linkHost !== currentHost) ||
+                link.href.startsWith('mailto:') ||
+                link.href.startsWith('tel:')) {
+                link.setAttribute('target', '_blank');
+                link.setAttribute('rel', 'noopener noreferrer');
+            }
+        });
+    });
+</script>
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
