@@ -67,7 +67,7 @@ Shengwei Du, **Zhichao Wang**, Yixuan Ma
 *中国社会学年会*.2025.07.(Oral)
 
 ### [社会的規範の形成と維持 大規模言語モデルを用いたシミュレーションによる解明](https://researchmap.jp/zhichaowang/presentations/51084659)
-Zeyu Lyu, **Zhichao Wang**, Yoshimichi Sato, Hiroki Takikawa, Yu Odanaka
+Zeyu Lyu, **Zhichao Wang**, Yoshimichi Sato, Hiroki Takikawa, Yu Odanaka  
 *第79回数理社会学会（JAMS79）*.2025.08.(Poster)
 
 ### [AI-augmented Synthetic Social Survey Data: Can Large Language Models Predict Public Opinion?](https://researchmap.jp/zhichaowang/presentations/49385584)
