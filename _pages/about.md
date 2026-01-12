@@ -61,25 +61,25 @@ Shengwei Du, **Zhichao Wang**, Yixuan Ma
 
 # 💬 Presentation
 
-### [The Role of Recommendation Algorithms in Shaping Opinion Polarization: Evidence from an LLM-Driven Social Media Simulation](https://researchmap.jp/zhichaowang/presentations/51685097)
+### The Role of Recommendation Algorithms in Shaping Opinion Polarization: Evidence from an LLM-Driven Social Media Simulation
 **Zhichao Wang**, Zeyu Lyu  
 *2025 Asian Network for Public Opinion Research-Asia‑Pacific Communication Alliance Annual Conference*.2025.11.(Oral)  
 *中国社会学年会*.2025.07.(Oral)
 
-### [Formation and Maintenance of Social Norms: Insights from Simulations Using Large Language Models](https://researchmap.jp/zhichaowang/presentations/51084659)
+### Formation and Maintenance of Social Norms: Insights from Simulations Using Large Language Models
 **Zhichao Wang**, Zeyu Lyu, Yoshimichi Sato, Hiroki Takikawa, Yu Odanaka  
 *第79回日本数理社会学会*.2025.08.(Poster)  
 *中国计算社会学年会*.2025.12.(Oral)
 
-### [AI-augmented Synthetic Social Survey Data: Can Large Language Models Predict Public Opinion?](https://researchmap.jp/zhichaowang/presentations/49385584)
+### AI-augmented Synthetic Social Survey Data: Can Large Language Models Predict Public Opinion?
 Zeyu Lyu, **Zhichao Wang**  
 *第78回日本数理社会学会*.2025.03.(Poster)
 
-### [Evaluating Hiring Decision-Making in Large Language Models](https://researchmap.jp/zhichaowang/presentations/49385528)
+### Evaluating Hiring Decision-Making in Large Language Models
 **Zhichao Wang**, Zeyu Lyu  
 *第78回日本数理社会学会*.2025.03.(Poster)
 
-### [Model-Agnostic Personalized Preference Estimator for Task Recommendation in Online Labor Markets: A Meta-Learning Approach](https://researchmap.jp/zhichaowang/presentations/49385528)
+### Model-Agnostic Personalized Preference Estimator for Task Recommendation in Online Labor Markets: A Meta-Learning Approach
 Yixuan Ma, **Zhichao Wang**  
 *INFORMS Annual Meeting 2023*.2023.10.(Oral)
 
