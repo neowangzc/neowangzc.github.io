@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a in coming PhD student in Graduate School of Arts and Letters at Tohoku University, where I am advised by Zeyu Lyu. 
+I am currently a PhD student in Professor [Zeyu Lyu’s lab](https://lvzeyu.github.io/), where I study the intersection of computational social science, artificial intelligence, and social computing.
+Our group focuses on employing big data and computational methods in the areas of sociology, communication, and political science.
+Before moving here, I worked in the esports industry and the traditional media industry.
+I hold an MS degree from Beijing Jiaotong University and a BA degree from the University of Science and Technology of China.
 
-I work at the intersection of computational social science, artificial intelligence, and social computing. I like doing research that tackles real-world issues and provides actionable insights.
+
+
 
 
 # 🔥 News
