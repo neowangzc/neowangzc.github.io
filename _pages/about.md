@@ -67,7 +67,7 @@ Shengwei Du, **Zhichao Wang**, Yixuan Ma
 *中国社会学年会*.2025.07.(Oral)
 
 ### [Formation and Maintenance of Social Norms: Insights from Simulations Using Large Language Models](https://researchmap.jp/zhichaowang/presentations/51084659)
-Zeyu Lyu, **Zhichao Wang**, Yoshimichi Sato, Hiroki Takikawa, Yu Odanaka  
+**Zhichao Wang**, Zeyu Lyu, Yoshimichi Sato, Hiroki Takikawa, Yu Odanaka  
 *第79回日本数理社会学会*.2025.08.(Poster)  
 *中国计算社会学年会*.2025.12.(Oral)
 
