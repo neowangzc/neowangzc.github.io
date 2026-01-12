@@ -34,30 +34,25 @@ I hold an MS degree from Beijing Jiaotong University and a BA degree from the Un
 
 # 📝 Publications 
 
+### Personalized recommendation system based on meta-learning for human-centric consumer services in gig economy
+Y Ma, **Z Wang**, M Tang, W Qu, M Deveci, D Pamucar  
+*IEEE Transactions on Consumer Electronics*, **2023** [Paper](https://ieeexplore.ieee.org/abstract/document/10296044/)
+
 ### From ABM to GABM: How Generative AI is Reshaping Social Simulation
 Z Lyu, **Z Wang** 
-*Journal of Intelligent Society*(Chinese Edition), **2025**  
-[Paper]() | [Code]()
-
-### Online Labor Market Task Recommendation via Time-Weighted Diffusion Model
-S Du, **Z Wang**, Y Ma  
-*International Conference on Neural Information Processing*, **2024**  
-[Paper]() | [Code]()
+*Journal of Intelligent Society*(Chinese Edition), **2025** [Paper](https://www.jis.ac.cn/CN/Y2025/V4/I2/138)
 
 ### MIG: Addressing the Cold-Start Problem in Task Recommendations Through Enhanced Meta Embeddings
 **Z Wang**, Y Ma  
-*2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, **2024**  
-[Paper]() | [Code]()
-
-### Personalized recommendation system based on meta-learning for human-centric consumer services in gig economy
-Y Ma, **Z Wang**, M Tang, W Qu, M Deveci, D Pamucar  
-*IEEE Transactions on Consumer Electronics*, **2023**  
-[Paper]() | [Code]()
+*2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, **2024** [Paper](https://ieeexplore.ieee.org/abstract/document/10831509)
 
 ### Enhancing Task Matching in Online Labor Markets Using Multi-field Features Interaction and Meta-learning
 **Z Wang**, Y Ma  
-*International Conference on Logistics, Informatics and Service Sciences*, **2023**  
-[Paper]() | [Code]()
+*International Conference on Logistics, Informatics and Service Sciences*, **2023** [Paper](https://link.springer.com/chapter/10.1007/978-981-97-4045-1_43)  
+
+### Online Labor Market Task Recommendation via Time-Weighted Diffusion Model
+S Du, **Z Wang**, Y Ma  
+*International Conference on Neural Information Processing*, **2024** [Paper](https://link.springer.com/chapter/10.1007/978-981-96-6588-4_30)
 
 
 # 💬 Presentation
