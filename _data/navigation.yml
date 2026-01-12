@@ -9,11 +9,14 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Projects"
-    url: "/#-projects"
-
+  - title: "Presentation"
+    url: "/#-presentation"
+    
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Presentation"
-    url: "/#-presentation"
+  - title: "Projects"
+    url: "/#-projects"
+
+
+
