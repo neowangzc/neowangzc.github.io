@@ -25,7 +25,7 @@ I hold an MS degree from Beijing Jiaotong University and a BA degree from the Un
 **[Research Interest]**
 1. **Digital Platforms**: Polarization, algorithmic control, and gig economy
 2. **LLM for Social Science**:Human–AI interaction, LLMs-driven social simulation
-3. **Digital Humanities**: Online discourse, narratives, and cultural evolution
+3. **Computational Humanities**: Online discourse, narratives, and cultural evolution
 
 
 <span class='anchor' id='-blog'></span>
