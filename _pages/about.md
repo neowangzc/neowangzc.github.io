@@ -72,6 +72,10 @@ Shengwei Du, **Zhichao Wang**, Yixuan Ma
 
 # 💬 Presentation
 
+### Gender Bias in Narrative Tropes
+**Zhichao Wang**, Zeyu Lyu  
+*第80回日本数理社会学会*.2026.03.(Poster)
+
 ### The Role of Recommendation Algorithms in Shaping Opinion Polarization: Evidence from an LLM-Driven Social Media Simulation
 **Zhichao Wang**, Zeyu Lyu  
 *2025 Asian Network for Public Opinion Research-Asia‑Pacific Communication Alliance Annual Conference*.2025.11.(Oral)  
