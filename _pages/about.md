@@ -72,6 +72,10 @@ Shengwei Du, **Zhichao Wang**, Yixuan Ma
 
 # 💬 Presentation
 
+### Gender inequality in academic promotion:Evidence from researchers’ career trajectories in Japan
+Rongkang Pei, **Zhichao Wang**, Zeyu Lyu  
+*2026 American Sociological Association*. 2026.8.(Oral)
+
 ### Gender Bias in Narrative Tropes
 **Zhichao Wang**, Zeyu Lyu  
 *第80回日本数理社会学会*.2026.03.(Poster)
