@@ -45,10 +45,6 @@ I hold an MS degree from Beijing Jiaotong University and a BA degree from the Un
 
 # 📝 Publications 
 
-### [The Impact of Regional Economic Conditions on Bidding Strategies in Online Labor Markets]()
-**Zhichao Wang**, Zeyu Lyu  
-*In Proceedings of IEEE International Conference on Big Data*. **2025**
-
 ### [From ABM to GABM: How Generative AI is Reshaping Social Simulation](https://www.jis.ac.cn/CN/Y2025/V4/I2/138)
 **Zhichao Wang**, Zeyu Lyu  
 *Journal of Intelligent Society*(Chinese Edition). **2025**
