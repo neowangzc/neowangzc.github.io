@@ -72,6 +72,10 @@ Shengwei Du, **Zhichao Wang**, Yixuan Ma
 
 # 💬 Presentation
 
+### Segregation and Opportunity Inequality in The Gig Economy
+**Zhichao Wang**, Zeyu Lyu  
+*[Population Association of Singapore Conference 2026](https://www.sgpopulation.org/pas-2026)*. 2026.
+
 ### Gender inequality in academic promotion:Evidence from researchers’ career trajectories in Japan
 Rongkang Pei, **Zhichao Wang**, Zeyu Lyu  
 *2026 American Sociological Association*. 2026.8.(Oral)
