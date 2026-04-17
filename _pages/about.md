@@ -76,10 +76,6 @@ Shengwei Du, **Zhichao Wang**, Yixuan Ma
 **Zhichao Wang**, Zeyu Lyu  
 *[International Conference on Social Dynamics 2026 (ICSD)](https://sites.google.com/view/icsd2026/about/registration)*. 2026.
 
-### Segregation and Opportunity Inequality in The Gig Economy
-**Zhichao Wang**, Zeyu Lyu  
-*[Population Association of Singapore Conference 2026](https://www.sgpopulation.org/pas-2026)*. 2026.
-
 ### Gender inequality in academic promotion:Evidence from researchers’ career trajectories in Japan
 Rongkang Pei, **Zhichao Wang**, Zeyu Lyu  
 *2026 American Sociological Association*. 2026.8.(Oral)
@@ -87,6 +83,10 @@ Rongkang Pei, **Zhichao Wang**, Zeyu Lyu
 ### Gender Bias in Narrative Tropes
 **Zhichao Wang**, Zeyu Lyu  
 *第80回日本数理社会学会*.2026.03.(Poster)
+
+### Segregation and Opportunity Inequality in The Gig Economy
+**Zhichao Wang**, Zeyu Lyu  
+*[Population Association of Singapore Conference 2026](https://www.sgpopulation.org/pas-2026)*. 2026.
 
 ### The Role of Recommendation Algorithms in Shaping Opinion Polarization: Evidence from an LLM-Driven Social Media Simulation
 **Zhichao Wang**, Zeyu Lyu  
