@@ -74,7 +74,7 @@ Shengwei Du, **Zhichao Wang**, Yixuan Ma
 
 ### Costly Punishment Undermines Collective Welfare: Evidence from LLM Multi-Agent System in Public Goods Game(Travel Grant)
 **Zhichao Wang**, Zeyu Lyu  
-*International Conference on Social Dynamics 2026 (ICSD)*. 2026.(Oral)
+*International Conference on Social Dynamics 2026 (ICSD)*.2026.06.(Oral)
 
 ### Gender inequality in academic promotion:Evidence from researchers’ career trajectories in Japan
 Rongkang Pei, **Zhichao Wang**, Zeyu Lyu  
@@ -86,7 +86,7 @@ Rongkang Pei, **Zhichao Wang**, Zeyu Lyu
 
 ### Segregation and Opportunity Inequality in The Gig Economy
 **Zhichao Wang**, Zeyu Lyu  
-*Population Association of Singapore Conference 2026*. 2026.(Oral)
+*Population Association of Singapore Conference 2026*.2026.05.(Oral)
 
 ### The Role of Recommendation Algorithms in Shaping Opinion Polarization: Evidence from an LLM-Driven Social Media Simulation
 **Zhichao Wang**, Zeyu Lyu  
