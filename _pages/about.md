@@ -72,6 +72,10 @@ Shengwei Du, **Zhichao Wang**, Yixuan Ma
 
 # 💬 Presentation
 
+### Costly Punishment Undermines Collective Welfare: Evidence from LLM Multi-Agent System in Public Goods Game
+**Zhichao Wang**, Zeyu Lyu  
+*[International Conference on Social Dynamics 2026 (ICSD)](https://sites.google.com/view/icsd2026/about/registration)*. 2026.
+
 ### Segregation and Opportunity Inequality in The Gig Economy
 **Zhichao Wang**, Zeyu Lyu  
 *[Population Association of Singapore Conference 2026](https://www.sgpopulation.org/pas-2026)*. 2026.
