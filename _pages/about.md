@@ -86,7 +86,7 @@ Rongkang Pei, **Zhichao Wang**, Zeyu Lyu
 
 ### Segregation and Opportunity Inequality in The Gig Economy
 **Zhichao Wang**, Zeyu Lyu  
-*Population Association of Singapore Conference 2026*.2026.05.(Oral)
+*Population Association of Singapore Conference 2026 (PAS)*.2026.05.(Oral)
 
 ### The Role of Recommendation Algorithms in Shaping Opinion Polarization: Evidence from an LLM-Driven Social Media Simulation
 **Zhichao Wang**, Zeyu Lyu  
