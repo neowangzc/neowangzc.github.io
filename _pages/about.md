@@ -51,7 +51,7 @@ I hold an MS degree from Beijing Jiaotong University and a BA degree from the Un
 
 ### [From ABM to GABM: How Generative AI is Reshaping Social Simulation](https://www.jis.ac.cn/CN/Y2025/V4/I2/138)
 **Zhichao Wang**, Zeyu Lyu  
-*Journal of Intelligent Society*(Chinese Edition). **2025**
+*Journal of Intelligent Society*. **2025**
 
 ### [Personalized recommendation system based on meta-learning for human-centric consumer services in gig economy](https://ieeexplore.ieee.org/abstract/document/10296044/)
 Yixuan Ma, **Zhichao Wang**, Mingcong Tang et al.  
