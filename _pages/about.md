@@ -72,7 +72,7 @@ Shengwei Du, **Zhichao Wang**, Yixuan Ma
 
 # 💬 Presentation
 
-### Costly Punishment Undermines Collective Welfare: Evidence from LLM Multi-Agent System in Public Goods Game
+### Costly Punishment Undermines Collective Welfare: Evidence from LLM Multi-Agent System in Public Goods Game(Travel Grant)
 **Zhichao Wang**, Zeyu Lyu  
 *[International Conference on Social Dynamics 2026 (ICSD)](https://sites.google.com/view/icsd2026/about/registration)*. 2026.
 
@@ -80,7 +80,7 @@ Shengwei Du, **Zhichao Wang**, Yixuan Ma
 Rongkang Pei, **Zhichao Wang**, Zeyu Lyu  
 *2026 American Sociological Association*. 2026.8.(Oral)
 
-### Gender Bias in Narrative Tropes
+### Gender Bias in Narrative Tropes(Travel Grant)
 **Zhichao Wang**, Zeyu Lyu  
 *第80回日本数理社会学会*.2026.03.(Poster)
 
