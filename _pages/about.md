@@ -125,5 +125,9 @@ Yixuan Ma, **Zhichao Wang**
 
 # 💻 Projects
 
+### [Social Science Deadlines 📚](https://huggingface.co/spaces/neo2momoka/socsci-deadlines)
+Countdowns to top social science conference, workshop, and summer school deadlines — with discipline filters (sociology, political science, economics, computational social science, etc.), fee/funding info, and one-click add-to-calendar. Adapted from [huggingface/ai-deadlines](https://github.com/huggingface/ai-deadlines).
 
+### [Paper Grab 📖](https://huggingface.co/spaces/neo2momoka/paper-grab)
+Fetch the latest articles from English and Chinese social science journals in one click. English journals via the CrossRef API; Chinese journals via NCPSSD (国家哲学社会科学文献中心). Select journals, fetch, download CSV.
 
