@@ -19,14 +19,9 @@ redirect_from:
 
 I am currently a PhD student in Professor [Zeyu Lyu’s lab](https://lvzeyu.github.io/), where I study the intersection of computational social science, artificial intelligence, and social computing.
 Our group focuses on employing big data and computational methods in the areas of sociology, communication, and political science.
-Before joining the lab, I worked in the [E-sports industry](https://www.douyu.com/) and the [traditional media industry](https://www.nmtv.cn/index).
-I hold an MS degree from Beijing Jiaotong University and a BA degree from the University of Electronic Science and Technology of China (UESTC).
+Before joining the lab, I received an M.S. in Computer Science from Beijing Jiaotong University and a B.Eng. in Electronic Engineering from the University of Electronic Science and Technology of China (UESTC).
 
-**[Research Interest]**
-1. **Digital Platforms**: Polarization, algorithmic control, and gig economy
-2. **LLM for Social Science**:Human–AI interaction, LLMs-driven social simulation
-3. **Computational Humanities**: Online discourse, narratives, and cultural evolution
-
+My research lies in computational social science. Using computational methods and large-scale digital trace data, I study how individual behaviors and interactions give rise to collective outcomes in digital environments. My recent work focuses on digital labor markets, opinion dynamics, and LLM-based social simulation.
 
 <span class='anchor' id='-blog'></span>
 # 🔥 Blog
@@ -45,7 +40,7 @@ I hold an MS degree from Beijing Jiaotong University and a BA degree from the Un
 
 # 📝 Publications 
 
-### [The Impact of Regional Economic Conditions on Bidding Strategies in Online Labor Markets]()
+### [The Impact of Regional Economic Conditions on Bidding Strategies in Online Labor Markets](https://ieeexplore.ieee.org/abstract/document/11402067)
 **Zhichao Wang**, Zeyu Lyu  
 *In Proceedings of IEEE International Conference on Big Data*. **2025**
 
@@ -74,7 +69,7 @@ Shengwei Du, **Zhichao Wang**, Yixuan Ma
 
 ### Costly Punishment Undermines Collective Welfare: Evidence from LLM Multi-Agent System in Public Goods Game(Travel Grant)
 **Zhichao Wang**, Zeyu Lyu  
-*International Conference on Social Dilemmas 2026 (ICSD)*.2026.06.(Oral)
+*International Conference on Social Dilemmas 2026 (ICSD)*.2026.06.(Poster)
 
 ### Gender inequality in academic promotion:Evidence from researchers’ career trajectories in Japan
 Rongkang Pei, **Zhichao Wang**, Zeyu Lyu  
