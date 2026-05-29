@@ -70,6 +70,10 @@ Shengwei Du, **Zhichao Wang**, Yixuan Ma
 
 # 💬 Presentation
 
+### Beyond Genre Categories: How Narrative Pattern Coherence and Spanning Distance Shape Film Success
+**Zhichao Wang**, Zeyu Lyu  
+The 6th International Conference on Natural Language Processing for Digital Humanities (NLP4DH). 2026. (Poster)
+
 ### Costly Punishment Undermines Collective Welfare: Evidence from LLM Multi-Agent System in Public Goods Game(Travel Grant)
 **Zhichao Wang**, Zeyu Lyu  
 *International Conference on Social Dilemmas 2026 (ICSD)*.2026.06.(Poster)
