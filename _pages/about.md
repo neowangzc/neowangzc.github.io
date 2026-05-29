@@ -18,7 +18,6 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a PhD student in Professor [Zeyu Lyu’s lab](https://lvzeyu.github.io/), where I study the intersection of computational social science, artificial intelligence, and social computing.
-Our group focuses on employing big data and computational methods in the areas of sociology, communication, and political science.
 Before joining the lab, I received an M.S. in Computer Science from Beijing Jiaotong University and a B.Eng. in Electronic Engineering from the University of Electronic Science and Technology of China (UESTC).
 
 My research lies in computational social science. Using computational methods and large-scale digital trace data, I study how individual behaviors and interactions give rise to collective outcomes in digital environments. My recent work focuses on digital labor markets, opinion dynamics, and LLM-based social simulation.
