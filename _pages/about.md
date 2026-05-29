@@ -40,6 +40,10 @@ My research lies in computational social science. Using computational methods an
 
 # 📝 Publications 
 
+### [Gender Inequality in Academic Promotion: Evidence from Researchers’ Career Trajectories in Japan](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hoEP1cYAAAAJ&citation_for_view=hoEP1cYAAAAJ:ufrVoPGSRksC)
+Rongkang Pei, Zeyu Lyu, Guolong Wang, **Zhichao Wang**, Maoxin Ye, Xiaoguang Fan  
+*Scientific Reports*. **2026**.
+
 ### [The Impact of Regional Economic Conditions on Bidding Strategies in Online Labor Markets](https://ieeexplore.ieee.org/abstract/document/11402067)
 **Zhichao Wang**, Zeyu Lyu  
 *In Proceedings of IEEE International Conference on Big Data*. **2025**
