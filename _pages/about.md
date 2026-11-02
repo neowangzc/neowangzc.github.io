@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in the Graduate School of Arts and Letters at Tohoku University, working with Professor [Zeyu Lyu](https://lvzeyu.github.io/). I also work as a research assistant to [Senhu Wang](https://discovery.nus.edu.sg/19615-senhu-wang). I am a [JSPS Research Fellow (DC2)](https://www.jsps.go.jp/j-pd/pd_gaiyo.html) for 2026–2028.
+I am a PhD student in the Graduate School of Arts and Letters at Tohoku University, working with Professor [Zeyu Lyu](https://lvzeyu.github.io/). I also work as a research assistant to [Senhu Wang](https://discovery.nus.edu.sg/19615-senhu-wang).
 Before joining the lab, I received an M.S. in Computer Science from Beijing Jiaotong University and a B.Eng. in Electronic Engineering from the University of Electronic Science and Technology of China (UESTC).
 
 My research lies in computational social science. Using computational methods, large-scale digital trace data, and LLM-based social simulations, I study social inequality and how individual behaviors and interactions give rise to collective outcomes. My recent work focuses on online labor markets, opinion dynamics, cultural markets, and gender inequality in academic careers.
@@ -131,6 +131,19 @@ Yixuan Ma, **Zhichao Wang**
 
 
 # 💻 Projects
+
+## Research Projects
+
+### [Norm Formation in Large Language Models](https://researchmap.jp/takikawa/research_projects/47609925)
+Collaborating with Prof. Zeyu Lyu to study how social norms emerge and stabilize in LLMs and LLM multi-agent systems, using activation steering.
+
+### [Generalized LLM-Based Social Experiment Platform](https://github.com/ZJUCSS/social-experiment-platform)
+Contributed to an open-source generative-agent simulation platform from Prof. Chao Wu's group at Zhejiang University. Designed and implemented simulation scenarios and interaction logic.
+
+### [NewsChat](https://newschat.blocs.jp/)
+Designed and built a news-reading platform for Prof. Hiroki Takikawa's group, enabling experiments on user engagement, trust, and behavioral responses to LLM-mediated news consumption.
+
+## Research Tools
 
 ### [Social Science Deadlines 📚](https://huggingface.co/spaces/neo2momoka/socsci-deadlines)
 Countdowns to top social science conference, workshop, and summer school deadlines — with discipline filters (sociology, political science, economics, computational social science, etc.), fee/funding info, and one-click add-to-calendar. Adapted from [huggingface/ai-deadlines](https://github.com/huggingface/ai-deadlines).
