@@ -1,21 +1,27 @@
 # main links links
 main:
   - title: "About Me"
+    i18n: "nav.about"
     url: "/#about-me"
 
   - title: "Blog"
+    i18n: "nav.blog"
     url: "/blog/"
 
   - title: "Publications"
+    i18n: "nav.publications"
     url: "/#-publications"
 
   - title: "Presentation"
+    i18n: "nav.presentations"
     url: "/#-presentation"
     
   - title: "Honors and Awards"
+    i18n: "nav.honors"
     url: "/#-honors-and-awards"
 
   - title: "Projects"
+    i18n: "nav.projects"
     url: "/#-projects"
 
 

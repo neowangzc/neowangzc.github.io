@@ -23,13 +23,13 @@ author_profile: false
 </style>
 
 <div class="blog-header">
-  <h1>Blogs</h1>
+  <h1 data-i18n="blog.title">Blogs</h1>
 </div>
 
 <div class="tag-filter-section">
-  <div class="tag-filter-title">Filter by tag:</div>
+  <div class="tag-filter-title" data-i18n="blog.filter">Filter by tag:</div>
   <div class="tag-cloud">
-    <button class="tag-filter-btn active" data-tag="all">All</button>
+    <button class="tag-filter-btn active" data-tag="all" data-i18n="blog.all">All</button>
     {% assign all_tags = "" | split: "" %}
     {% for post in site.posts %}
       {% for tag in post.tags %}
@@ -40,7 +40,7 @@ author_profile: false
     {% endfor %}
     {% assign sorted_tags = all_tags | sort %}
     {% for tag in sorted_tags %}
-    <button class="tag-filter-btn" data-tag="{{ tag }}">{{ tag }}</button>
+    <button class="tag-filter-btn" data-tag="{{ tag }}" data-i18n="tags.{{ tag }}">{{ tag }}</button>
     {% endfor %}
   </div>
 </div>
@@ -49,17 +49,17 @@ author_profile: false
 {% for post in site.posts %}
   <article class="blog-item" data-tags="{% for tag in post.tags %}{{ tag }} {% endfor %}">
     <h2 class="blog-item-title">
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <a href="{{ post.url | relative_url }}"{% if post.i18n_key %} data-i18n="{{ post.i18n_key }}.title"{% endif %}>{{ post.title }}</a>
     </h2>
     {% if post.excerpt %}
-    <p class="blog-item-excerpt">{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
+    <p class="blog-item-excerpt"{% if post.i18n_key %} data-i18n="{{ post.i18n_key }}.excerpt"{% endif %}>{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
     {% endif %}
     <div class="blog-item-meta">
-      <span class="blog-item-date">{% if post.date_precision == "month" %}{{ post.date | date: "%B %Y" }}{% else %}{{ post.date | date: "%B %d, %Y" }}{% endif %}</span>
+      <span class="blog-item-date" data-i18n-date="{{ post.date | date: '%Y-%m-%d' }}" data-date-precision="{{ post.date_precision | default: 'day' }}">{% if post.date_precision == "month" %}{{ post.date | date: "%B %Y" }}{% else %}{{ post.date | date: "%B %d, %Y" }}{% endif %}</span>
       {% if post.tags %}
         <span class="meta-separator">•</span>
         {% for tag in post.tags %}
-          <span class="blog-item-tag" data-tag="{{ tag }}">#{{ tag }}</span>
+          <span class="blog-item-tag" data-tag="{{ tag }}">#<span data-i18n="tags.{{ tag }}">{{ tag }}</span></span>
         {% endfor %}
       {% endif %}
     </div>
@@ -68,7 +68,7 @@ author_profile: false
 </div>
 
 <div class="no-results" style="display: none;">
-  <p>No blog posts found with the selected tag.</p>
+  <p data-i18n="blog.empty">No blog posts found with the selected tag.</p>
 </div>
 
 <style>

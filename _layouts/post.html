@@ -4,17 +4,17 @@ layout: default
 
 <article class="post-article">
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
+    <h1 class="post-title"{% if page.i18n_key %} data-i18n="{{ page.i18n_key }}.title"{% endif %}>{{ page.title }}</h1>
     <div class="post-meta">
       <time class="post-date" datetime="{% if page.date_precision == 'month' %}{{ page.date | date: '%Y-%m' }}{% else %}{{ page.date | date_to_xmlschema }}{% endif %}">
         <svg class="icon" viewBox="0 0 24 24" width="16" height="16">
           <path fill="currentColor" d="M19,4H18V2H16V4H8V2H6V4H5C3.89,4 3,4.9 3,6V20A2,2 0 0,0 5,22H19A2,2 0 0,0 21,20V6A2,2 0 0,0 19,4M19,20H5V10H19V20M19,8H5V6H19V8Z" />
         </svg>
-        {% if page.date_precision == "month" %}
+        <span data-i18n-date="{{ page.date | date: '%Y-%m-%d' }}" data-date-precision="{{ page.date_precision | default: 'day' }}">{% if page.date_precision == "month" %}
         {{ page.date | date: "%B %Y" }}
         {% else %}
         {{ page.date | date: "%B %d, %Y" }}
-        {% endif %}
+        {% endif %}</span>
       </time>
       {% if page.tags %}
       <div class="post-tags">
@@ -22,14 +22,14 @@ layout: default
           <path fill="currentColor" d="M5.5,7A1.5,1.5 0 0,1 4,5.5A1.5,1.5 0 0,1 5.5,4A1.5,1.5 0 0,1 7,5.5A1.5,1.5 0 0,1 5.5,7M21.41,11.58L12.41,2.58C12.05,2.22 11.55,2 11,2H4C2.89,2 2,2.89 2,4V11C2,11.55 2.22,12.05 2.59,12.41L11.58,21.41C11.95,21.77 12.45,22 13,22C13.55,22 14.05,21.77 14.41,21.41L21.41,14.41C21.78,14.05 22,13.55 22,13C22,12.45 21.77,11.95 21.41,11.58Z" />
         </svg>
         {% for tag in page.tags %}
-          <a href="/blog/#{{ tag }}" class="post-tag">#{{ tag }}</a>
+          <a href="/blog/#{{ tag }}" class="post-tag">#<span data-i18n="tags.{{ tag }}">{{ tag }}</span></a>
         {% endfor %}
       </div>
       {% endif %}
     </div>
   </header>
 
-  <div class="post-content">
+  <div class="post-content"{% if page.i18n_key %} data-i18n="{{ page.i18n_key }}.body" data-i18n-html{% endif %}>
     {{ content }}
   </div>
 
@@ -38,7 +38,7 @@ layout: default
       <svg class="icon" viewBox="0 0 24 24" width="20" height="20">
         <path fill="currentColor" d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" />
       </svg>
-      Back to Blog
+      <span data-i18n="blog.back">Back to Blog</span>
     </a>
   </footer>
 </article>

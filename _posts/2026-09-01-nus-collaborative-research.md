@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I began collaborative research at NUS."
+i18n_key: posts.nus
 # Only the month is known; the day is used for Jekyll sorting.
 date: 2026-09-01
 date_precision: month
