@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in the Graduate School of Arts and Letters at Tohoku University, working with Professor [Zeyu Lyu](https://lvzeyu.github.io/). I also work as a research assistant to [Senhu Wang](https://discovery.nus.edu.sg/19615-senhu-wang).
+I am a PhD student in the Graduate School of Arts and Letters at Tohoku University, working with Professor [Zeyu Lyu](https://lvzeyu.github.io/). I also work as a research assistant to Professor [Senhu Wang](https://discovery.nus.edu.sg/19615-senhu-wang).
 Before joining the lab, I received an M.S. in Computer Science from Beijing Jiaotong University and a B.Eng. in Electronic Engineering from the University of Electronic Science and Technology of China (UESTC).
 
 My research lies in computational social science. Using computational methods, large-scale digital trace data, and LLM-based social simulations, I study social inequality and how individual behaviors and interactions give rise to collective outcomes. My recent work focuses on online labor markets, opinion dynamics, cultural markets, and gender inequality in academic careers.
