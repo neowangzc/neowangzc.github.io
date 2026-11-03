@@ -55,7 +55,7 @@ author_profile: false
     <p class="blog-item-excerpt">{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
     {% endif %}
     <div class="blog-item-meta">
-      <span class="blog-item-date">{{ post.date | date: "%B %d, %Y" }}</span>
+      <span class="blog-item-date">{% if post.date_precision == "month" %}{{ post.date | date: "%B %Y" }}{% else %}{{ post.date | date: "%B %d, %Y" }}{% endif %}</span>
       {% if post.tags %}
         <span class="meta-separator">•</span>
         {% for tag in post.tags %}
