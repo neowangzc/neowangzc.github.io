@@ -38,6 +38,10 @@ redirect_from:
 
 <h1 id="-publications">📝 <span data-i18n="sections.publications">Publications</span></h1>
 
+### Recentralization in Decentralized Social Media? An LLM-Driven Simulation Investigation of the Feed Marketplace
+**Z. Wang**, Z. Lyu, X. Bai, Z. Wu, T. Huang, J. Pan, Y.-X. Qiu, C. Xiao, S. Zheng, J. Qin  
+*Telematics and Informatics Reports*. **2026**.
+
 ### [Beyond Genre Categories: How Narrative Pattern Coherence and Spanning Distance Shape Film Success](https://aclanthology.org/2026.nlp4dh-1.13/)
 **Zhichao Wang**, Zeyu Lyu  
 *Proceedings of the 6th International Conference on Natural Language Processing for the Digital Humanities (NLP4DH)*, pp. 132–137. **2026**. [PDF](https://aclanthology.org/2026.nlp4dh-1.13.pdf)
