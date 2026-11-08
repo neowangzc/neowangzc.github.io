@@ -48,7 +48,7 @@ redirect_from:
 
 ### [Gender inequality in academic promotion trajectories in Japan](https://doi.org/10.1038/s41598-026-54562-5)
 Rongkang Pei, Zeyu Lyu, Guolong Wang, **Zhichao Wang**, Maoxin Ye, Xiaoguang Fan  
-*Scientific Reports*, 16, Article 25230. **2026**.
+*Scientific Reports*. **2026**.
 
 ### [The Impact of Regional Economic Conditions on Bidding Strategies in Online Labor Markets](https://ieeexplore.ieee.org/abstract/document/11402067)
 **Zhichao Wang**, Zeyu Lyu  
@@ -56,7 +56,7 @@ Rongkang Pei, Zeyu Lyu, Guolong Wang, **Zhichao Wang**, Maoxin Ye, Xiaoguang Fan
 
 ### [Online Labor Market Task Recommendation via Time-Weighted Diffusion Model](https://link.springer.com/chapter/10.1007/978-981-96-6588-4_30)
 Shengwei Du, **Zhichao Wang**, Yixuan Ma  
-*Neural Information Processing (ICONIP 2024)*, Lecture Notes in Computer Science, vol. 15290. <span data-i18n="common.published">Published</span> **2025**.
+*Neural Information Processing (ICONIP 2024)*. **2025**.
 
 ### [From ABM to GABM: How Generative AI is Reshaping Social Simulation](https://www.jis.ac.cn/CN/Y2025/V4/I2/138)
 **Zhichao Wang**, Zeyu Lyu  
@@ -68,7 +68,7 @@ Shengwei Du, **Zhichao Wang**, Yixuan Ma
 
 ### [Enhancing Task Matching in Online Labor Markets Using Multi-field Features Interaction and Meta-learning](https://link.springer.com/chapter/10.1007/978-981-97-4045-1_43) (<span data-i18n="common.travel_grant">Travel Grant</span>)
 **Zhichao Wang**, Yixuan Ma  
-*LISS 2023*, Lecture Notes in Operations Research. <span data-i18n="common.published">Published</span> **2024**.
+*LISS 2023*. **2024**.
 
 ### [Personalized recommendation system based on meta-learning for human-centric consumer services in gig economy](https://ieeexplore.ieee.org/abstract/document/10296044/)
 Yixuan Ma, **Zhichao Wang**, Mingcong Tang et al.  
