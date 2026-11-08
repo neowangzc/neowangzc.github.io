@@ -82,15 +82,15 @@ Zeyu Lyu, Hiroki Takikawa, **Zhichao Wang**, Takuya Shimokubo
 
 ### Do Midlife Expectations about Ageing Shape Later Cognition? Social Class and Cognitive Inequality
 **Zhichao Wang**, Senhu Wang, Zheng Liu, Zeyu Lyu  
-<span data-i18n="papers.cognition.status" data-i18n-html>Under review at <em>SSM – Population Health</em>, special issue “Social Determinants of Cognitive Inequality Across the Life Course”.</span>
+<span data-i18n="papers.cognition.status" data-i18n-html>Under review at <em>SSM – Population Health</em>.</span>
 
-### “Imagine That You Are Now 60”: Subjective Well-Being and Later-Life Frailty
+### How Does Subjective Well-Being Affect Later-Life Frailty?
 **Zhichao Wang**, Senhu Wang, Rongkang Pei, Zeyu Lyu  
-<span data-i18n="papers.frailty.status" data-i18n-html>Submitted to <em>Innovation in Aging</em>.</span>
+<span data-i18n="papers.frailty.status" data-i18n-html>Under review at <em>Innovation in Aging</em>.</span>
 
 ### Winning Does Not Fix the Leak: The Asymmetry of Success and Failure in Women’s Occupational Persistence
 **Zhichao Wang**, Senhu Wang, Zeyu Lyu  
-<span data-i18n="papers.occupational_persistence.status" data-i18n-html>Submitted to <em>Work, Employment and Society</em>.</span>
+<span data-i18n="papers.occupational_persistence.status" data-i18n-html>Under review at <em>Work, Employment and Society</em>.</span>
 
 
 <h1 id="-presentation">💬 <span data-i18n="sections.presentations">Presentation</span></h1>
