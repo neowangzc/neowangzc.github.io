@@ -74,6 +74,24 @@ Shengwei Du, **Zhichao Wang**, Yixuan Ma
 Yixuan Ma, **Zhichao Wang**, Mingcong Tang et al.  
 *IEEE Transactions on Consumer Electronics*. **2023**.
 
+<h2 id="working-papers" data-i18n="sections.working_papers">Working Papers</h2>
+
+### How Focusing Events Reshape Online Opinion Expression: Norm Activation, Participation, and Opinion Climate Feedback
+Zeyu Lyu, Hiroki Takikawa, **Zhichao Wang**, Takuya Shimokubo  
+<span data-i18n="papers.focusing_events.status" data-i18n-html>Under review at <em>Social Science Computer Review</em>.</span>
+
+### Do Midlife Expectations about Ageing Shape Later Cognition? Social Class and Cognitive Inequality
+**Zhichao Wang**, Senhu Wang, Zheng Liu, Zeyu Lyu  
+<span data-i18n="papers.cognition.status" data-i18n-html>Under review at <em>SSM – Population Health</em>, special issue “Social Determinants of Cognitive Inequality Across the Life Course”.</span>
+
+### “Imagine That You Are Now 60”: Subjective Well-Being and Later-Life Frailty
+**Zhichao Wang**, Senhu Wang, Rongkang Pei, Zeyu Lyu  
+<span data-i18n="papers.frailty.status" data-i18n-html>Submitted to <em>Innovation in Aging</em>.</span>
+
+### Winning Does Not Fix the Leak: The Asymmetry of Success and Failure in Women’s Occupational Persistence
+**Zhichao Wang**, Senhu Wang, Zeyu Lyu  
+<span data-i18n="papers.occupational_persistence.status" data-i18n-html>Submitted to <em>Work, Employment and Society</em>.</span>
+
 
 <h1 id="-presentation">💬 <span data-i18n="sections.presentations">Presentation</span></h1>
 
