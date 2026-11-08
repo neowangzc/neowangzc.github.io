@@ -44,7 +44,7 @@ redirect_from:
 
 ### [Beyond Genre Categories: How Narrative Pattern Coherence and Spanning Distance Shape Film Success](https://aclanthology.org/2026.nlp4dh-1.13/)
 **Zhichao Wang**, Zeyu Lyu  
-*Proceedings of the 6th International Conference on Natural Language Processing for the Digital Humanities (NLP4DH)*, pp. 132–137. **2026**. [PDF](https://aclanthology.org/2026.nlp4dh-1.13.pdf)
+*Proceedings of the 6th International Conference on Natural Language Processing for the Digital Humanities (NLP4DH)*. **2026**. [PDF](https://aclanthology.org/2026.nlp4dh-1.13.pdf)
 
 ### [Gender inequality in academic promotion trajectories in Japan](https://doi.org/10.1038/s41598-026-54562-5)
 Rongkang Pei, Zeyu Lyu, Guolong Wang, **Zhichao Wang**, Maoxin Ye, Xiaoguang Fan  
@@ -52,11 +52,11 @@ Rongkang Pei, Zeyu Lyu, Guolong Wang, **Zhichao Wang**, Maoxin Ye, Xiaoguang Fan
 
 ### [The Impact of Regional Economic Conditions on Bidding Strategies in Online Labor Markets](https://ieeexplore.ieee.org/abstract/document/11402067)
 **Zhichao Wang**, Zeyu Lyu  
-*Proceedings of the IEEE International Conference on Big Data (BigData)*, pp. 5860–5867. **2025**.
+*Proceedings of the IEEE International Conference on Big Data (BigData)*. **2025**.
 
 ### [Online Labor Market Task Recommendation via Time-Weighted Diffusion Model](https://link.springer.com/chapter/10.1007/978-981-96-6588-4_30)
 Shengwei Du, **Zhichao Wang**, Yixuan Ma  
-*Neural Information Processing (ICONIP 2024)*, Lecture Notes in Computer Science, vol. 15290, pp. 431–446. <span data-i18n="common.published">Published</span> **2025**.
+*Neural Information Processing (ICONIP 2024)*, Lecture Notes in Computer Science, vol. 15290. <span data-i18n="common.published">Published</span> **2025**.
 
 ### [From ABM to GABM: How Generative AI is Reshaping Social Simulation](https://www.jis.ac.cn/CN/Y2025/V4/I2/138)
 **Zhichao Wang**, Zeyu Lyu  
@@ -68,7 +68,7 @@ Shengwei Du, **Zhichao Wang**, Yixuan Ma
 
 ### [Enhancing Task Matching in Online Labor Markets Using Multi-field Features Interaction and Meta-learning](https://link.springer.com/chapter/10.1007/978-981-97-4045-1_43) (<span data-i18n="common.travel_grant">Travel Grant</span>)
 **Zhichao Wang**, Yixuan Ma  
-*LISS 2023*, Lecture Notes in Operations Research, pp. 556–571. <span data-i18n="common.published">Published</span> **2024**.
+*LISS 2023*, Lecture Notes in Operations Research. <span data-i18n="common.published">Published</span> **2024**.
 
 ### [Personalized recommendation system based on meta-learning for human-centric consumer services in gig economy](https://ieeexplore.ieee.org/abstract/document/10296044/)
 Yixuan Ma, **Zhichao Wang**, Mingcong Tang et al.  
@@ -82,7 +82,7 @@ Zeyu Lyu, Hiroki Takikawa, **Zhichao Wang**, Takuya Shimokubo
 
 ### Do Midlife Expectations about Ageing Shape Later Cognition? Social Class and Cognitive Inequality
 **Zhichao Wang**, Senhu Wang, Zheng Liu, Zeyu Lyu  
-<span data-i18n="papers.cognition.status" data-i18n-html>Under review at <em>SSM – Population Health</em>.</span>
+<span data-i18n="papers.cognition.status" data-i18n-html>Conditionally accepted by <em>SSM – Population Health</em>.</span>
 
 ### How Does Subjective Well-Being Affect Later-Life Frailty?
 **Zhichao Wang**, Senhu Wang, Rongkang Pei, Zeyu Lyu  
